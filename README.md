@@ -1,4 +1,4 @@
-# Sale-forecasting-using-Arimax-seasonal-Arimax-and-Holt-s-Method
+# grocery product Sale-forecasting-using-Arimax-seasonal-Arimax-and-Holt-s-Method
 
 ARIMAX and SARIMAX are advanced techniques used in time series forecasting, particularly for analyzing sales data like Perrin Freres monthly champagne sales. These models enhance traditional ARIMA or seasonal ARIMA methods by incorporating external factors, known as exogenous variables, that could influence the sales patterns.
 
